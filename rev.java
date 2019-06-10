@@ -1,3 +1,5 @@
+// I am actually learning to add file on my github account from computer using git..
+// so dont take it serious ....
 import java.io.*;
 public class rev
 {
